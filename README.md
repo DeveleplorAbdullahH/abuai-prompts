@@ -17,6 +17,8 @@ This is a Dataset Repository of **Awesome ABU AI Prompts**
 
 **[View All Prompts on GitHub](https://github.com/f/awesome-abuai-prompts)**
 
+**[View Dataset in HuggingFace](https://huggingface.co/datasets/botintel-community/abuai-prompts)**
+
 # License
 
 CC-0
